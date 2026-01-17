@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/connect_iran.jpg" width="160" alt="Connect Iran"/>
+</p>
+
 # Contributing to Connect Iran
 
 Thank you for your interest in helping Iranians stay connected during internet blackouts. Every contribution matters.
@@ -136,6 +140,10 @@ All contributors will be recognized in our release notes. Significant contributi
 - Check existing issues and PRs
 
 ---
+
+<p align="center">
+  <img src="assets/Flag_of_Iran.svg" width="60" alt="Iran"/>
+</p>
 
 <p align="center">
   <strong>زن، زندگی، آزادی</strong><br/>

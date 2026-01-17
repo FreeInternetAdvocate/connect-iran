@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/90133f83-b4f6-41c6-aab9-25d0859d2a47" width="180" height="180" alt="Connect Iran"/>
+  <img src="assets/connect_iran.jpg" width="200" alt="Connect Iran"/>
 </p>
 
-<h1 align="center">🇮🇷 Connect Iran</h1>
+<h1 align="center">Connect Iran</h1>
 
 <p align="center">
   <strong>When they cut the wires, we become the network.</strong>
@@ -10,8 +10,7 @@
 
 <p align="center">
   <a href="https://x.com/connect_iran">𝕏 @connect_iran</a> •
-  <a href="https://nufdiran.org">NUFDIRAN</a> •
-  <a href="https://bags.fm/3mDtUAjazAyqY58CMxLzYVSvH4AkU4bWwaNEXWsUBAGS">Donate</a>
+  <a href="https://nufdiran.org">NUFDIRAN</a>
 </p>
 
 <p align="center">
@@ -132,7 +131,6 @@ Our code is open source. We welcome audits, vulnerability reports, and security 
 
 ### For Everyone
 - **Spread the word** — Share [@connect_iran](https://x.com/connect_iran) on social media
-- **Donate** — Support NUFDIRAN at [bags.fm](https://bags.fm/3mDtUAjazAyqY58CMxLzYVSvH4AkU4bWwaNEXWsUBAGS)
 - **Test** — If you're safely outside Iran, help us test and improve
 
 ---
@@ -231,12 +229,15 @@ Use it, modify it, distribute it. No restrictions. **Freedom is the point.**
 ---
 
 <p align="center">
+  <img src="assets/Flag_of_Iran.svg" width="80" alt="Iran"/>
+</p>
+
+<p align="center">
   <strong>زن، زندگی، آزادی</strong><br/>
   <em>Woman, Life, Freedom</em>
 </p>
 
 <p align="center">
   <a href="https://x.com/connect_iran">𝕏</a> •
-  <a href="https://nufdiran.org">NUFDIRAN</a> •
-  <a href="https://bags.fm/3mDtUAjazAyqY58CMxLzYVSvH4AkU4bWwaNEXWsUBAGS">Donate</a>
+  <a href="https://nufdiran.org">NUFDIRAN</a>
 </p>

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/connect_iran.jpg" width="160" alt="Connect Iran"/>
+</p>
+
 # Connect Iran Privacy Policy
 
 *Last updated: January 2026*
@@ -186,8 +190,15 @@ For people living under authoritarian regimes, a metadata trail can mean prison.
 
 Connect Iran proves that modern communication doesn't require surveillance. No accounts, no servers, no compromise. Just people connecting freely, safely, and privately.
 
-**زن، زندگی، آزادی** — Woman, Life, Freedom
-
 ---
+
+<p align="center">
+  <img src="assets/Flag_of_Iran.svg" width="60" alt="Iran"/>
+</p>
+
+<p align="center">
+  <strong>زن، زندگی، آزادی</strong><br/>
+  <em>Woman, Life, Freedom</em>
+</p>
 
 *This policy is released into the public domain under [The Unlicense](LICENSE), just like Connect Iran itself.*

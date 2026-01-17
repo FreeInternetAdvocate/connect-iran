@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/connect_iran.jpg" width="160" alt="Connect Iran"/>
+</p>
+
 # Connect Iran Roadmap
 
 > Building resilient communication for when the internet goes dark.
@@ -232,10 +236,6 @@ The mesh networking and encryption foundation inherited from BitChat:
 - Report bugs and UX issues
 - Help with device compatibility
 
-### Funding
-All donations go to [NUFDIRAN](https://nufdiran.org):
-- [Donate via bags.fm](https://bags.fm/3mDtUAjazAyqY58CMxLzYVSvH4AkU4bWwaNEXWsUBAGS)
-
 ---
 
 ## Timeline
@@ -252,6 +252,10 @@ All donations go to [NUFDIRAN](https://nufdiran.org):
 *Timelines are aspirational and depend on community contributions and funding.*
 
 ---
+
+<p align="center">
+  <img src="assets/Flag_of_Iran.svg" width="60" alt="Iran"/>
+</p>
 
 <p align="center">
   <strong>زن، زندگی، آزادی</strong><br/>
