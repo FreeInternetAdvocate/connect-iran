@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/connect_iran.jpg" width="200" alt="Connect Iran"/>
+  <img src="assets/Flag_of_Iran.svg" width="200" alt="Connect Iran"/>
 </p>
 
 <h1 align="center">Connect Iran</h1>
@@ -227,15 +227,6 @@ This project is released into the **public domain** under [The Unlicense](LICENS
 Use it, modify it, distribute it. No restrictions. **Freedom is the point.**
 
 ---
-
-<p align="center">
-  <img src="assets/Flag_of_Iran.svg" width="80" alt="Iran"/>
-</p>
-
-<p align="center">
-  <strong>زن، زندگی، آزادی</strong><br/>
-  <em>Woman, Life, Freedom</em>
-</p>
 
 <p align="center">
   <a href="https://x.com/connect_iran">𝕏</a> •

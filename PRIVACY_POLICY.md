@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/connect_iran.jpg" width="160" alt="Connect Iran"/>
+  <img src="assets/Flag_of_Iran.svg" width="160" alt="Connect Iran"/>
 </p>
 
 # Connect Iran Privacy Policy
@@ -192,13 +192,5 @@ Connect Iran proves that modern communication doesn't require surveillance. No a
 
 ---
 
-<p align="center">
-  <img src="assets/Flag_of_Iran.svg" width="60" alt="Iran"/>
-</p>
-
-<p align="center">
-  <strong>زن، زندگی، آزادی</strong><br/>
-  <em>Woman, Life, Freedom</em>
-</p>
 
 *This policy is released into the public domain under [The Unlicense](LICENSE), just like Connect Iran itself.*

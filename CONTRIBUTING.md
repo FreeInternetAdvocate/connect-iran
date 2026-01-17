@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/connect_iran.jpg" width="160" alt="Connect Iran"/>
+  <img src="assets/Flag_of_Iran.svg" width="160" alt="Connect Iran"/>
 </p>
 
 # Contributing to Connect Iran
@@ -141,11 +141,3 @@ All contributors will be recognized in our release notes. Significant contributi
 
 ---
 
-<p align="center">
-  <img src="assets/Flag_of_Iran.svg" width="60" alt="Iran"/>
-</p>
-
-<p align="center">
-  <strong>زن، زندگی، آزادی</strong><br/>
-  <em>Woman, Life, Freedom</em>
-</p>
