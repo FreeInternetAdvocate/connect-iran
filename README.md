@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/Flag_of_Iran.svg" width="200" alt="Connect Iran"/>
-</p>
+<img src="assets/Flag_of_Iran.svg" width="100%" alt="Connect Iran"/>
 
 <h1 align="center">Connect Iran</h1>
 
